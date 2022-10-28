@@ -1,1 +1,1 @@
-# CommonHardwareMonitor-Daemon
+# Daemon
